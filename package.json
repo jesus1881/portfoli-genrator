@@ -1,0 +1,22 @@
+{
+  "name": "portfoli-genrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus1881/portfoli-genrator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus1881/portfoli-genrator/issues"
+  },
+  "homepage": "https://github.com/jesus1881/portfoli-genrator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
